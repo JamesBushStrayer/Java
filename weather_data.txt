@@ -1,5 +1,5 @@
 City, Temperature, Humidity
 New York, 16, 60
 Los Angeles, 20, 50
-London, 15, 65
-Tokyo, 22, 55
+London (UK), 15, 65
+Tokyo (JP), 22, 55
